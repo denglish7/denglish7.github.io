@@ -11,10 +11,6 @@ body {
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
-#aboutDiv {
-    margin-left: 0;
-    width: 50%;
-}
 .avi {
     height: 30%;
     width: 30%;
