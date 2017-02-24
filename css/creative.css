@@ -11,6 +11,9 @@ body {
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
+#aboutDiv {
+    margin-left: 0;
+}
 hr {
   border-color: #4A3C96;
   border-width: 3px;
