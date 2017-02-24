@@ -14,6 +14,7 @@ body {
 .avi {
     height: 50%;
     width: 50%;
+    margin-bottom: 20px;
 }
 hr {
   border-color: #4A3C96;
@@ -48,6 +49,7 @@ p {
 }
 .bg-primary {
   background-color: #4A3C96;
+  padding-top: 70px;
 }
 .bg-dark {
   background-color: #4A3C96;
