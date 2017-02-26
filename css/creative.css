@@ -49,7 +49,8 @@ p {
 }
 .bg-primary {
   background-color: #4A3C96;
-  padding-top: 70px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 .bg-dark {
   background-color: #4A3C96;
@@ -215,7 +216,10 @@ header .header-content .header-content-inner p {
   }
 }
 .section-heading {
-  margin-top: 0;
+  margin-top: 10px;
+}
+#services {
+    padding: 50px 0;
 }
 .service-box {
   max-width: 400px;
@@ -228,6 +232,13 @@ header .header-content .header-content-inner p {
 }
 .service-box p {
   margin-bottom: 0;
+}
+#portfolio {
+    background-color: #4A3C96;
+    color: white;
+}
+#whiteprimary {
+    background-color: white;
 }
 .portfolio-box {
   position: relative;
